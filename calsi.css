@@ -1,0 +1,31 @@
+.calculator{
+  border: 3px solid blue;
+  background-color: rgb(175, 165, 165);
+  width: 500px;
+  height: 600px;
+  
+  
+}
+#display{
+  border: 3px solid black;
+  height: 12%;
+  width: 80%;
+  margin: 8%;
+}
+.button{
+  height: 60px;
+  width: 50px;
+  border: 2px solid grey;
+  margin-right: 7%;
+  margin-left: 6%;
+  margin-bottom: 5%;
+  font-size: 22px;
+  background-color: darkkhaki;
+}
+#b1{
+  height: 60px;
+  width: 150px;
+  border: 2px solid grey;
+  margin-right: 7%;
+  margin-left: 6%;
+}
